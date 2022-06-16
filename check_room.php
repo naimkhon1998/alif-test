@@ -1,5 +1,5 @@
 <?php
- //1
+
 $GLOBALS['conn'] = mysqli_connect('localhost','root','123','alif_test');
 
 function check_room($room_id,$time_start, $time_end){
